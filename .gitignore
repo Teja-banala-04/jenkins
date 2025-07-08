@@ -1,0 +1,9 @@
+# Talend Studio ignores
+*.log
+*.tmp
+*.bak
+*.lock
+workspace/.metadata/
+workspace/.Java/
+bin/
+target/
